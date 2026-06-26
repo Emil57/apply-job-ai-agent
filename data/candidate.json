@@ -1,0 +1,19 @@
+{
+    "name": "John Doe",
+    "skills": [
+        "Python",
+        "Azure",
+        "C#",
+        "Java",
+        "Google Cloud Platform",
+        "Amazon Web Services",
+        "Data Streaming",
+        "Machine Learning"
+    ],
+    "years_experience": 4,
+    "preferred_locations": [
+        "Remote",
+        "Mexico",
+        "USA"
+    ]
+}
