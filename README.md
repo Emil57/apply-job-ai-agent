@@ -208,30 +208,9 @@ uv run pytest
 
 ## Development Roadmap
 
-### Phase 1
-
-- [ ] Resume upload
-- [ ] Resume parsing
-- [ ] Candidate profile extraction
-- [ ] Job search integration
-- [ ] Job storage
-
-### Phase 2
-
-- [ ] Job matching
-- [ ] Resume tailoring
-- [ ] Cover letter generation
-
-### Phase 3
-
-- [ ] Playwright automation
-- [ ] Job application workflow
-
-### Phase 4
-
-- [ ] Agent orchestration with LangGraph
-- [ ] Daily autonomous job search
-- [ ] Application tracking dashboard
+The plan is split into 8 sprints (Foundation → Profile → Search → Scoring → Review → Tailoring → Applying → Tracking).
+See [docs/ROADMAP.md](docs/ROADMAP.md) for the approach, the sprint-by-sprint stories, and how we work.
+Progress is tracked in [GitHub issues](https://github.com/Emil57/apply-job-ai-agent/issues) (filter by `sprint-N` labels).
 
 ---
 
